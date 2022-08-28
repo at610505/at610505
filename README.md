@@ -14,7 +14,8 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=at610505&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=at610505&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=at610505&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 <img src="https://api.daily.dev/devcards/865d42b9ccf34610830651e0b00f1ccb.png?r=tpd" width="400" alt="Anshuman's Dev Card"/>
   

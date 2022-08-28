@@ -1,4 +1,3 @@
-<img src="https://api.daily.dev/devcards/865d42b9ccf34610830651e0b00f1ccb.png?r=tpd" width="400" alt="Anshuman's Dev Card"/>
 # 💫About Me :
 ◾Currently -->CSE student at @MIMIt
 ◾Learning --> Object oriented programming and Data structure & Algorithm
@@ -24,8 +23,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=at610505&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/anshumant72) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://api.daily.dev/devcards/865d42b9ccf34610830651e0b00f1ccb.png?r=tpd" width="400" alt="Anshuman's Dev Card"/>
   

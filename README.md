@@ -1,3 +1,4 @@
+https://api.daily.dev/devcards/865d42b9ccf34610830651e0b00f1ccb.png?r=tpd
 # 💫About Me :
 ◾Currently -->CSE student at @MIMIt
 ◾Learning --> Object oriented programming and Data structure & Algorithm

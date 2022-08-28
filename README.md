@@ -1,4 +1,4 @@
-https://api.daily.dev/devcards/865d42b9ccf34610830651e0b00f1ccb.png?r=tpd
+<img src="https://api.daily.dev/devcards/865d42b9ccf34610830651e0b00f1ccb.png?r=tpd" width="400" alt="Anshuman's Dev Card"/>
 # 💫About Me :
 ◾Currently -->CSE student at @MIMIt
 ◾Learning --> Object oriented programming and Data structure & Algorithm
